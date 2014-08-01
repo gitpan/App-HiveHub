@@ -1,0 +1,58 @@
+#!/usr/bin/env perl
+# PODNAME: hivehub
+# ABSTRACT: The HiveHub daemon [IN DEVELOPMENT]
+
+$|=1;
+
+use strict;
+use warnings;
+use App::HiveHub;
+
+my $hivehub = App::HiveHub->new_with_options;
+$hivehub->run;
+
+exit 0;
+
+__END__
+
+=pod
+
+=head1 NAME
+
+hivehub - The HiveHub daemon [IN DEVELOPMENT]
+
+=head1 VERSION
+
+version 0.001
+
+=head1 DESCRIPTION
+
+B<IN DEVELOPMENT, DO NOT USE YET>
+
+=head1 SUPPORT
+
+IRC
+
+  Join #hardware on irc.perl.org. Highlight Getty for fast reaction :).
+
+Repository
+
+  https://github.com/homehivelab/p5-app-hivehub
+  Pull request and additional contributors are welcome
+
+Issue Tracker
+
+  https://github.com/homehivelab/p5-app-hivehub/issues
+
+=head1 AUTHOR
+
+Torsten Raudssus <torsten@raudss.us>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2014 by Torsten Raudssus.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+=cut

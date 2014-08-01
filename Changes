@@ -1,0 +1,29 @@
+==================================================
+Changes from 1740-10-17 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2014-08-01 21:03:58 +0000
+------------------------------------------
+
+  Change: 2dabbefa5e1e7269f1723979df91e40ca691a83d
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-08-01 23:01:48 +0000
+
+    Changed height back 
+
+  Change: e06f8bf75e3ce82f1b2f24c75b1dd00754f450aa
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-08-01 22:08:47 +0000
+
+    First implementation, please dont use without knowing what you do 
+
+  Change: 0628198078558f946844ec55b316ed6893df1471
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-07-30 00:12:15 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
